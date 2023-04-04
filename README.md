@@ -23,4 +23,23 @@ The total variance for all manufacturing lots combined is 62.29356, which is les
 ![D2-1](https://user-images.githubusercontent.com/118647523/229684560-ba3c354f-adbf-4908-a580-f3130234f52d.png)
 ![D2-2](https://user-images.githubusercontent.com/118647523/229684566-0837d74a-a87b-4dba-8c83-2c6a37493275.png)
 
+## T-Tests on Suspension Coils
+
+The t-tests were conducted to determine whether the PSI for all manufacturing lots and each manufacturing lot individually is statistically different from the population mean of 1,500 PSI. The p-values were used to make this determination.
+
+For the PSI across all manufacturing lots, the p-value was 0.06028, which is greater than the significance level of 0.05. Therefore, we fail to reject the null hypothesis and conclude that there is not sufficient evidence to suggest that the true population mean PSI is different from 1,500 PSI.
+
+![D3-1](https://user-images.githubusercontent.com/118647523/229686810-1cf8053b-e019-4085-a41f-28d02173b117.png)
+
+For Lot1, the p-value was 1, indicating that we fail to reject the null hypothesis and conclude that the true population mean PSI is not statistically different from 1,500 PSI for Lot1.
+
+![D3-2](https://user-images.githubusercontent.com/118647523/229686828-33548463-1eb4-4ffe-b27d-17a31b98e3cd.png)
+
+For Lot2, the p-value was 0.6072, which is greater than the significance level of 0.05. Therefore, we fail to reject the null hypothesis and conclude that the true population mean PSI is not statistically different from 1,500 PSI for Lot2.
+
+![D3-3](https://user-images.githubusercontent.com/118647523/229686862-4bf24422-ad24-4b3f-b443-bd4b5bbc2efe.png)
+
+For Lot3, the p-value was 0.04168, which is less than the significance level of 0.05. Therefore, we reject the null hypothesis and conclude that the true population mean PSI is statistically different from 1,500 PSI for Lot3.
+
+![D3-4](https://user-images.githubusercontent.com/118647523/229686889-1665884f-e20c-4636-8bfd-964493a119d5.png)
 
