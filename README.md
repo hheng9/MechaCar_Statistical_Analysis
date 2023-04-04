@@ -16,3 +16,6 @@ The linear model seems to predict the mpg of MechaCar prototypes effectively, as
 ### No, the slope of the linear model is not zero because at least one variable has a coefficient with a p-value less than 0.05.
 
 ### The model is relatively effective in predicting mpg (71.49% of the variance can be explained by the variables in the model), but the AWD variable may not be statistically significant, and further analysis is needed to confirm if the assumptions of linear regression are met.
+
+![D2-1](https://user-images.githubusercontent.com/118647523/229682934-83c934da-c76b-43c5-ac05-69ae4227580e.png)
+![D2-2](https://user-images.githubusercontent.com/118647523/229682941-d556b421-ea61-4984-bfb6-0460dca070fb.png)
