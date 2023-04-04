@@ -20,6 +20,7 @@ The linear model seems to predict the mpg of MechaCar prototypes effectively, as
 ## Summary Statistics on Suspension Coils
 The total variance for all manufacturing lots combined is 62.29356, which is less than the specified maximum of 100 pounds per square inch. However, when looking at each lot individually, Lot1 has a variance of 0.9795918, which is below the limit, while Lot2 has a variance of 7.4693878 and Lot3 has a variance of 170.2861224, both of which exceed the limit. Therefore, Lots 2 and 3 do not meet the design specification for the variance of the suspension coils. This suggests that there may be issues with the manufacturing process in these two lots that need to be addressed. 
 
-![D2-1](https://user-images.githubusercontent.com/118647523/229682934-83c934da-c76b-43c5-ac05-69ae4227580e.png)
-![D2-2](https://user-images.githubusercontent.com/118647523/229682941-d556b421-ea61-4984-bfb6-0460dca070fb.png)
+![D2-1](https://user-images.githubusercontent.com/118647523/229684560-ba3c354f-adbf-4908-a580-f3130234f52d.png)
+![D2-2](https://user-images.githubusercontent.com/118647523/229684566-0837d74a-a87b-4dba-8c83-2c6a37493275.png)
+
 
