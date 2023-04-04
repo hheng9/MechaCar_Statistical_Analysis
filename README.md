@@ -53,3 +53,13 @@ For Lot3, the p-value was 0.04168, which is less than the significance level of 
 
 ![D3-4](https://user-images.githubusercontent.com/118647523/229686889-1665884f-e20c-4636-8bfd-964493a119d5.png)
 
+## Study Design: MechaCar vs Competition
+To compare the performance of MechaCar vehicles against the performance of vehicles from other manufacturers, we could conduct a statistical study focusing on fuel efficiency and cost. Specifically, we could compare the city and highway fuel efficiency and the cost of MechaCar vehicles to a sample of vehicles from other manufacturers in the same category.
+
+Null Hypothesis: There is no significant difference in the fuel efficiency and cost between MechaCar vehicles and vehicles from other manufacturers.
+
+Alternative Hypothesis: There is a significant difference in the fuel efficiency and cost between MechaCar vehicles and vehicles from other manufacturers.
+
+To test the hypothesis, we could use a two-sample t-test with a significance level of 0.05. The t-test would be appropriate for comparing the means of two independent groups, in this case, the fuel efficiency and cost of MechaCar vehicles and other vehicles in the same category.
+
+To run the statistical test, we would need data on the fuel efficiency (city and highway) and cost of MechaCar vehicles, as well as a sample of vehicles from other manufacturers in the same category. We would need to ensure that the sample of vehicles from other manufacturers is representative of the broader population of vehicles in that category. Additionally, we would need to control for any potential confounding variables, such as vehicle weight or horsepower, which could impact fuel efficiency and cost.
