@@ -2,6 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
+![D1-1](https://user-images.githubusercontent.com/118647523/229681764-d39a2d66-55b1-4e1e-b102-7aeb256a706e.png)
+
 Based on the coefficients' p-values, the variables that provided a non-random amount of variance to the mpg values in the dataset are: intercept, vehicle_length, and ground_clearance. Their p-values are all less than 0.001, indicating that it is very unlikely that the coefficients for these variables are equal to zero.
 
 No, the slope of the linear model is not considered to be zero, because at least one variable (vehicle_length) has a coefficient with a p-value less than 0.05 (in fact, all variables except AWD have a p-value less than 0.05). This means that there is evidence to suggest that the variables are related to the response variable (mpg).
