@@ -17,7 +17,9 @@ The linear model seems to predict the mpg of MechaCar prototypes effectively, as
 
 ### The model is relatively effective in predicting mpg (71.49% of the variance can be explained by the variables in the model), but the AWD variable may not be statistically significant, and further analysis is needed to confirm if the assumptions of linear regression are met.
 
+## Summary Statistics on Suspension Coils
+The total variance for all manufacturing lots combined is 62.29356, which is less than the specified maximum of 100 pounds per square inch. However, when looking at each lot individually, Lot1 has a variance of 0.9795918, which is below the limit, while Lot2 has a variance of 7.4693878 and Lot3 has a variance of 170.2861224, both of which exceed the limit. Therefore, Lots 2 and 3 do not meet the design specification for the variance of the suspension coils. This suggests that there may be issues with the manufacturing process in these two lots that need to be addressed. 
+
 ![D2-1](https://user-images.githubusercontent.com/118647523/229682934-83c934da-c76b-43c5-ac05-69ae4227580e.png)
 ![D2-2](https://user-images.githubusercontent.com/118647523/229682941-d556b421-ea61-4984-bfb6-0460dca070fb.png)
 
-## Summary Statistics on Suspension Coils
