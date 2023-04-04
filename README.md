@@ -19,3 +19,5 @@ The linear model seems to predict the mpg of MechaCar prototypes effectively, as
 
 ![D2-1](https://user-images.githubusercontent.com/118647523/229682934-83c934da-c76b-43c5-ac05-69ae4227580e.png)
 ![D2-2](https://user-images.githubusercontent.com/118647523/229682941-d556b421-ea61-4984-bfb6-0460dca070fb.png)
+
+## Summary Statistics on Suspension Coils
