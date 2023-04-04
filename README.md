@@ -1,11 +1,11 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-### The variables with significant impact on mpg are vehicle_length, ground_clearance, and the intercept.
+* ### The variables with significant impact on mpg are vehicle_length, ground_clearance, and the intercept.
 
-### The slope of the linear model is not zero because at least one variable has a coefficient with a p-value less than 0.05.
+* ### The slope of the linear model is not zero because at least one variable has a coefficient with a p-value less than 0.05.
 
-### The model is effective in predicting mpg and shows 71.49% of the variance can be explained by the variables in the model. The AWD variable may not be statistically significant and further analysis may be needed to confirm if the assumptions of linear regression are met.
+* ### The model is effective in predicting mpg and shows 71.49% of the variance can be explained by the variables in the model. The AWD variable may not be statistically significant and further analysis may be needed to confirm if the assumptions of linear regression are met.
 
 ![D1-1](https://user-images.githubusercontent.com/118647523/229681764-d39a2d66-55b1-4e1e-b102-7aeb256a706e.png)
 
